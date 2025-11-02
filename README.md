@@ -5,6 +5,8 @@ This bot transforms customer service by providing 24/7, intelligent, and persona
 
 **Media & Screenshots**
 
+![Full n8n Workflow Overview](img/workflow.png)
+![Screenshot of the bot successfully processing an order on WhatsApp](img/chat.jpg)
 
 **Key Features**
 

@@ -8,9 +8,9 @@ This bot transforms customer service by providing 24/7, intelligent, and persona
 
 **Key Features**
 
-**Intelligent Order Processing**: Automatically initiates, collects, and validates customer orders based on a multi-step conversation. 
-**Real-time Inventory Validation**: The bot uses the database to check item availability before accepting an order (e.g., if "Extra Rice" is out of stock, the bot informs the user and denies the specific request).
-**Conversational AI (Gemini)**: Utilizes an LLM agent to handle complex, open-ended questions and maintain a natural conversation flow.
+**Intelligent Order Processing**: Automatically initiates, collects, and validates customer orders based on a multi-step conversation.<br>
+**Real-time Inventory Validation**: The bot uses the database to check item availability before accepting an order (e.g., if "Extra Rice" is out of stock, the bot informs the user and denies the specific request).<br>
+**Conversational AI (Gemini)**: Utilizes an LLM agent to handle complex, open-ended questions and maintain a natural conversation flow.<br>
 
 This project delivers a robust, low-code solution for automating customer order management, inventory checks, and frequently asked questions (FAQs) for a restaurant directly through WhatsApp. It leverages powerful workflow automation (n8n), Google's Gemini AI for conversational intelligence, and Google Sheets as a flexible, no-fuss database.
 This bot transforms customer service by providing 24/7, intelligent, and personalized responses, dramatically reducing the manual effort required for order fulfillment.

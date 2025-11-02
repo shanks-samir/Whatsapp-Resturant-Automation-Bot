@@ -8,7 +8,7 @@ This bot transforms customer service by providing 24/7, intelligent, and persona
 
 **Key Features**
 
-**Intelligent Order Processing**: Automatically initiates, collects, and validates customer orders based on a multi-step conversation.
+**Intelligent Order Processing**: Automatically initiates, collects, and validates customer orders based on a multi-step conversation. 
 **Real-time Inventory Validation**: The bot uses the database to check item availability before accepting an order (e.g., if "Extra Rice" is out of stock, the bot informs the user and denies the specific request).
 **Conversational AI (Gemini)**: Utilizes an LLM agent to handle complex, open-ended questions and maintain a natural conversation flow.
 
